@@ -1,0 +1,24 @@
+
+Help page:
+
+Cows and bulls is a game where you must guess a number with the length that can be changed in options.
+All digits must have unique numbers.
+
+Bulls and cows:
+
+You get a number associated with how many cows and bulls you get.
+A bull means you have the correct location of your digit.
+A cow means you have the correct digit, however it is not in the correct place.
+
+Keywords (Whilst playing):
+
+stat - prints your overall stats
+exit - returns to main menu
+
+Login system:
+
+You can login with a username and your game data will auto-save.
+You can change to the default user by simply inputting nothing.
+
+ - Note:
+Usernames cannot have ( or ) characters in them.
