@@ -45,8 +45,6 @@ def load_all_data() -> dict[str, list]:
 
     return all_dat
 
-print(load_all_data())
-
 def save_data(cows: int, bulls: int, attempts: int, wins: int, usr: str) -> None:
     """ Saves data to save file """
     c_cow, c_bull, c_att, c_win = load_data(usr)
